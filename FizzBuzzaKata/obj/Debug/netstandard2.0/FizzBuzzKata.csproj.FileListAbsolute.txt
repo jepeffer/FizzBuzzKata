@@ -1,0 +1,8 @@
+C:\Users\myhog\source\repos\FizzBuzzaKata\FizzBuzzaKata\bin\Debug\netstandard2.0\FizzBuzzKata.deps.json
+C:\Users\myhog\source\repos\FizzBuzzaKata\FizzBuzzaKata\bin\Debug\netstandard2.0\FizzBuzzKata.dll
+C:\Users\myhog\source\repos\FizzBuzzaKata\FizzBuzzaKata\bin\Debug\netstandard2.0\FizzBuzzKata.pdb
+C:\Users\myhog\source\repos\FizzBuzzaKata\FizzBuzzaKata\obj\Debug\netstandard2.0\FizzBuzzKata.csprojAssemblyReference.cache
+C:\Users\myhog\source\repos\FizzBuzzaKata\FizzBuzzaKata\obj\Debug\netstandard2.0\FizzBuzzKata.AssemblyInfoInputs.cache
+C:\Users\myhog\source\repos\FizzBuzzaKata\FizzBuzzaKata\obj\Debug\netstandard2.0\FizzBuzzKata.AssemblyInfo.cs
+C:\Users\myhog\source\repos\FizzBuzzaKata\FizzBuzzaKata\obj\Debug\netstandard2.0\FizzBuzzKata.dll
+C:\Users\myhog\source\repos\FizzBuzzaKata\FizzBuzzaKata\obj\Debug\netstandard2.0\FizzBuzzKata.pdb

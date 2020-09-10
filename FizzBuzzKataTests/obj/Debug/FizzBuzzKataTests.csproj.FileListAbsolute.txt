@@ -1,0 +1,15 @@
+C:\Users\myhog\source\repos\FizzBuzzaKata\FizzBuzzKataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\myhog\source\repos\FizzBuzzaKata\FizzBuzzKataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\myhog\source\repos\FizzBuzzaKata\FizzBuzzKataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\myhog\source\repos\FizzBuzzaKata\FizzBuzzKataTests\bin\Debug\FizzBuzzKataTests.dll
+C:\Users\myhog\source\repos\FizzBuzzaKata\FizzBuzzKataTests\bin\Debug\FizzBuzzKataTests.pdb
+C:\Users\myhog\source\repos\FizzBuzzaKata\FizzBuzzKataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\myhog\source\repos\FizzBuzzaKata\FizzBuzzKataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\myhog\source\repos\FizzBuzzaKata\FizzBuzzKataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\myhog\source\repos\FizzBuzzaKata\FizzBuzzKataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\myhog\source\repos\FizzBuzzaKata\FizzBuzzKataTests\obj\Debug\FizzBuzzKataTests.csprojAssemblyReference.cache
+C:\Users\myhog\source\repos\FizzBuzzaKata\FizzBuzzKataTests\obj\Debug\FizzBuzzKataTests.csproj.CopyComplete
+C:\Users\myhog\source\repos\FizzBuzzaKata\FizzBuzzKataTests\obj\Debug\FizzBuzzKataTests.dll
+C:\Users\myhog\source\repos\FizzBuzzaKata\FizzBuzzKataTests\obj\Debug\FizzBuzzKataTests.pdb
+C:\Users\myhog\source\repos\FizzBuzzaKata\FizzBuzzKataTests\bin\Debug\FizzBuzzKata.dll
+C:\Users\myhog\source\repos\FizzBuzzaKata\FizzBuzzKataTests\bin\Debug\FizzBuzzKata.pdb
